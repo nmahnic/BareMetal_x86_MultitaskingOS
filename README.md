@@ -5,10 +5,10 @@ This bare metal multitasking OS implements secure mode and SIMD operations.
 | ------------- | ------------- |
 | **Nicolás MAHNIC** | **nico.mahnic94@gmail.com** |
 
-Detalis about each instance are explained in each bullet link.
+Detalis about each instance are explained in this [link](https://github.com/nmahnic/BareMetal_x86_MultitaskingOS/tree/main/tp15) .
  
 If you want to run this baremetalOS need Bochs x86 Emulator.
-Link to my youtube channel -> [Instalation Bochs](https://www.youtube.com/watch?v=E4VoAoyQdrU)
+Link to my youtube channel -> [Bochs Instalation](https://www.youtube.com/watch?v=E4VoAoyQdrU)
 
 [Consigna](https://gitlab.frba.utn.edu.ar/r5054-td3-Mahnic-Nicolas/r5054-td3-Mahnic-Nicolas/tree/master/gtp_td3_2020_1_v1_0.pdf)      
 :heavy_check_mark:   1. [Interración con las herramientas](https://github.com/nmahnic/BareMetal_x86_MultitaskingOS/tree/main/tp1)                                     

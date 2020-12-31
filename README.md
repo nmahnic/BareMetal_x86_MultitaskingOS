@@ -10,7 +10,7 @@ Detalis about each instance are explained in this [link](https://github.com/nmah
 If you want to run this baremetalOS need Bochs x86 Emulator.
 Link to my youtube channel -> [Bochs Instalation](https://www.youtube.com/watch?v=E4VoAoyQdrU)
 
-(The explanations and the youtube video are in Spanish, sorry for issues xD)
+(The explanations and the youtube video are in Spanish, sorry about issues xD)
 
 [Consigna](https://gitlab.frba.utn.edu.ar/r5054-td3-Mahnic-Nicolas/r5054-td3-Mahnic-Nicolas/tree/master/gtp_td3_2020_1_v1_0.pdf)      
 :heavy_check_mark:   1. [Interración con las herramientas](https://github.com/nmahnic/BareMetal_x86_MultitaskingOS/tree/main/tp1)                                     
